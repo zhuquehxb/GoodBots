@@ -1,11 +1,13 @@
 # GoodBots
-Curated lists of IP addresses/whitelists of good bots and crawlers. Includes GoogleBot, BingBot, DuckDuckBot, etc.
 
-All IP-Lists are in the [CIDR-Notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) and can be used as whitelists in your webserver's firewall or as an exception for rate-limits.
+精心策划的IP地址列表/良好机器人和爬虫程序的白名单。包括GoogleBot、BingBot、DuckDuckBot等。
 
-Either use the [all.ips](all.ips) list or a specific service's list of IP-Addresses found in the [iplists/](iplists/) directory.
+所有IP列表都在 [CIDR-Notation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) 中，可以用作Web服务器防火墙中的白名单或速率限制的例外。
 
-The lists are updated daily via a scheduled GitHub Action.
+使用 [all.ips](all.ips) 列表或在 [iplists/](iplists/) /目录中找到的特定服务的IP地址列表。
+
+这些列表每天通过预定的GitHub Action更新。
+
 <!-- TODO: Better Readme -->
   
 ```
